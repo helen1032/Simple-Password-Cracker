@@ -1,6 +1,4 @@
-# test
-# testing my first push - Axel
-# test
-# firfijeroigjreoigjreoi 
+import hashlib
 
-#comment 
+pass_filename = "Ashley-Madison.txt"
+
