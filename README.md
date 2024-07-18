@@ -20,7 +20,7 @@ This scrip demonstrates how to hash a password and compare it with hashed entire
 
 5. **Print the hashed password**: This prints the MD5 hash of the password
 
-6. **OPen the password file**: The file is opened in read mode
+6. **Open the password file**: The file is opened in read mode
 
 7. **Compare each word in the file**: Each word (potential password) in the file is encoded and hashed, then compared to the hashed password.
 
